@@ -1,5 +1,5 @@
 # Folder-Cleaner
-It's just a script written in Java to arrange your files and clean your lovely folders, and yes it supports all types of file extensions
+It's just a script written in Java to arrange your files and clean your lovely folders
 
 # Input
 
@@ -14,6 +14,8 @@ Delete Old Files After Putting Them In Folder[Y/n]:
 2) ```n``` -> It will not delete your files 
 
 Note: it will only delete those files which are moved to folders
+
+use it on your risk it may corrupt some files
 
 # Credits
 
